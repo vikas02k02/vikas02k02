@@ -19,10 +19,10 @@
 ## About me 
 
 - 🧑🏻‍💻 Aspiring Mobile App Developer
-- 😎 Worked in **Java**, **Android** 
+- 😎 Worked in **Java**, **Android** ,**Firebase**
 - 🌱 Learning **Flutter**
 - 📫 How to reach me **vikas.02k02@gmail.com**
-- 📝 I'm a Technical Writer at @hashnode [https://surajk00.hashnode.dev/](https://vikas02k02.hashnode.dev/)
+- 📝 I'm a Technical Writer at @hashnode https://vikas02k02.hashnode.dev/
 
 </td>
 </tr>
@@ -65,14 +65,11 @@
    <br>
 <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
 <code><a href="https://developer.android.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/android/android-icon.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
+<code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
+<code><a href="https://dart.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"></a></code>
 <code><a href="https://docs.flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
 
-
-
-
-<!-- <code><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="30"></a></code>
-<code><a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="30"></a></code> -->
 
 
 <br>
@@ -85,6 +82,7 @@
 
 ##  IDE, code editor, compiler, debugger and build tools  
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 
