@@ -49,8 +49,8 @@
 ## <h3 align="left"> Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vikas02k02" target="blank">
- <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="surajk_umar01" /></a>
-<a href="https://linkedin.com/in/vikas02k02" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="surajkumar00" /></a>
+ <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="vikas02k02" /></a>
+<a href="https://www.linkedin.com/in/vikas-kumar-014a102a6/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="vikas-kumar-014a102a6" /></a>
 <a href="https://www.leetcode.com/vikas02k02/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
 
 </p>
