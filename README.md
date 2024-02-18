@@ -19,7 +19,7 @@
 ## About me 
 
 - 🧑🏻‍💻 Aspiring Android App Developer
-- 😎 Worked in **Java**,**Kotlin**,**Android** ,**Firebase**,**.Net**
+- 😎 Worked in **Java**,**Kotlin**,**Android** ,**Firebase**,**C#**,**.Net**
 - 🌱 Learning **Native App Development**
 - 📫 How to reach me **vikas.02k02@gmail.com**
 - 📝 I'm a Technical Writer at @hashnode https://vikas02k02.hashnode.dev/
@@ -84,6 +84,7 @@
 ##  IDE, code editor, compiler, debugger and build tools  
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Visual Studio ](https://img.shields.io/visual-studio-marketplace/d/ritwickdey.LiveServer?style=for-the-badge&logo=visual%20studio&label=Visual%20Studio&labelColor=purple)
 
 ---
 
