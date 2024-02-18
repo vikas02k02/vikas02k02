@@ -9,7 +9,7 @@
 <!-- This is Typing SVG -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00D9F7&center=true&vCenter=true&width=435&lines=I'm+a+Mobile+App+Developer+;Dot+NET+Developer;Technical Writer"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00D9F7&center=true&vCenter=true&width=435&lines=I'm+an+Android+App+Developer+;Dot+NET+Developer;Technical Writer"></a>
 </p>
 
 <!-- This is about me -->
@@ -18,9 +18,9 @@
 
 ## About me 
 
-- 🧑🏻‍💻 Aspiring Mobile App Developer
-- 😎 Worked in **Java**, **Android** ,**Firebase**
-- 🌱 Learning **Flutter**
+- 🧑🏻‍💻 Aspiring Android App Developer
+- 😎 Worked in **Java**,**Kotlin**,**Android** ,**Firebase**,**.Net**
+- 🌱 Learning **Native App Development**
 - 📫 How to reach me **vikas.02k02@gmail.com**
 - 📝 I'm a Technical Writer at @hashnode https://vikas02k02.hashnode.dev/
 
@@ -66,8 +66,9 @@
 <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
 <code><a href="https://developer.android.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/android/android-icon.svg"></a></code>
 <code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
-<code><a href="https://dart.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"></a></code>
-<code><a href="https://docs.flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
+<code><a href="https://dart.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></a></code>
+<code><a href="https://docs.flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"></a></code>
+<code><a href="https://docs.flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
 
 
