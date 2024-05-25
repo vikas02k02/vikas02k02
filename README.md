@@ -20,7 +20,7 @@
 
 - 🧑🏻‍💻 Aspiring Android App Developer
 - 😎 Worked in **Java**,**Kotlin**,**Android** ,**Firebase**,**C#**,**.Net**
-- 🌱 Learning **Native App Development**
+- 🌱 Learning **MEARN Stack**
 - 📫 How to reach me **vikas.02k02@gmail.com**
 - 📝 I'm a Technical Writer at @hashnode https://vikas02k02.hashnode.dev/
 
